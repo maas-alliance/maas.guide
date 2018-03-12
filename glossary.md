@@ -22,7 +22,7 @@ An organization or operator that maintains one or more vehicles for the purpose 
 
 A digital or physical representation of a [booking](#booking), allowing a person to gain access to a form of transportation.
 
-### **Trip** {#trip}
+### **Trip**
 
 A journey, taken by one or more persons, with one or more modes of transportation.
 
