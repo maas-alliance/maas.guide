@@ -8,7 +8,7 @@ The glossary structure is an alphabetic list of keywords \(in bold\) followed by
 
 ### Booking
 
-A form of reservation with one or more transportation service providers that enables a person to take a [trip](#trip).
+A form of reservation with one or more [transportation service providers](#transportation-service-provider) that enables a person to take a [trip](#trip).
 
 ### Reservation
 
