@@ -14,6 +14,10 @@ A form of reservation with one or more transportation service providers that ena
 
 See: [Booking](#booking)
 
+### Transportation Service Provider
+
+An organization or operator that maintains one or more vehicles for the purpose of transporting goods or people.
+
 ### Ticket
 
 A digital or physical representation of a [booking](#booking), allowing a person to gain access to a form of transportation.
