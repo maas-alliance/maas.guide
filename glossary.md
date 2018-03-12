@@ -6,6 +6,14 @@ The glossary structure is an alphabetic list of keywords \(in bold\) followed by
 
 ## Terms
 
+### Booking
+
+A form of reservation with one or more transportation service providers that enables a person to take a trip.
+
+### Ticket
+
+A digital or physical representation of a [Booking](#booking), allowing a person to gain access to a form of transportation.
+
 ### **Trip** {#trip}
 
 A journey, taken by one or more persons, with one or more modes of transportation.
@@ -13,6 +21,4 @@ A journey, taken by one or more persons, with one or more modes of transportatio
 ### Tour {#tour}
 
 A type of [trip](#trip).
-
-
 
