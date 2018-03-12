@@ -8,7 +8,11 @@ The glossary structure is an alphabetic list of keywords \(in bold\) followed by
 
 ### **Trip** {#trip}
 
- A journey, taken by one or more persons, with one or more modes of transportation.
+A journey, taken by one or more persons, with one or more modes of transportation.
+
+### Tour {#tour}
+
+A type of [trip](#trip).
 
 
 
