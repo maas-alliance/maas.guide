@@ -16,7 +16,7 @@ See: [Booking](#booking)
 
 ### Ticket
 
-A digital or physical representation of a [Booking](#booking), allowing a person to gain access to a form of transportation.
+A digital or physical representation of a [booking](#booking), allowing a person to gain access to a form of transportation.
 
 ### **Trip** {#trip}
 
