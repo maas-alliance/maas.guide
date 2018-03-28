@@ -12,4 +12,5 @@
 ## End matter
 
 * [Glossary](GLOSSARY.md)
+* [Resources](resources.md)
 
