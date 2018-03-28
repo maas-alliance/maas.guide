@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Glossary](GLOSSARY.md)
 
 ## Transportation Service Providers
 
@@ -9,4 +8,8 @@
 * [Vehicles](vehicles.md)
 * [Bookings](bookings.md)
 * [Tickets](tickets.md)
+
+## End matter
+
+* [Glossary](GLOSSARY.md)
 
