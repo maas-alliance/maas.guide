@@ -12,7 +12,7 @@ A TSP should make available a list of vehicle types[^1] that are part of their f
 
 People are increasingly coming to expect real-time updates about transportation vehicle locations. This provides situational awareness about timing and delays, while building confidence and trust in the transportation provider.
 
-Vehicle location information consists primarily of periodic updates about the vehicle's geographic coordinates \(latitude and longetude\), direction, and movement.
+Vehicle location information consists primarily of periodic updates about the vehicle's geographic coordinates \(latitude and longetude\), direction, and movement. This information can be made available via a 'streaming' API, which pushes vehicle locations to all subscribers on an interval.
 
 [^1]: Wikipedia: [car classification](https://en.wikipedia.org/wiki/Car_classification)
 
