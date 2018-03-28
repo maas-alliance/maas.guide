@@ -8,5 +8,5 @@ Coverage describes the area and times in which a Transportation Service Provider
 
 ## Routes
 
-Some TSPs
+Some TSPs operate vehicles with fixed routes, such as bus or tram lines. It is important to publish route information in common formats, so that MaaS operators can help passengers find routes through a TSP network.
 
