@@ -6,3 +6,7 @@ One of the principle goals of the Mobility as a Service movement is to build a *
 
 It is the **user oriented approach** that distinguishes MaaS from other related concepts, such as multi-modality.
 
+## Attribution
+
+This work is provided by the [MaaS Alliance](https://maas-alliance.eu/), a public-private partnership creating the foundations for a common approach to MaaS, unlocking the economies of scale needed for successful implementation and take-up of MaaS in Europe and beyond.
+
