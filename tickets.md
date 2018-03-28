@@ -13,5 +13,9 @@ Some common ticket formats include:
 * [QR codes](https://en.wikipedia.org/wiki/QR_code) - two-dimensional 'barcodes' rendered PNG or SVG images
 * [Near Field Communication](https://en.wikipedia.org/wiki/Near-field_communication) - allows communication between nearby devices
 
+## Further reading
+
+* BoB Wiki: [Electronic tickets](https://samtrafiken.atlassian.net/wiki/spaces/BOB/pages/116036706/2.+Electronic+tickets)
+
 
 
