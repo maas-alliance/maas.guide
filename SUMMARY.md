@@ -8,6 +8,7 @@
 * [Vehicles](vehicles.md)
 * [Bookings](bookings.md)
 * [Tickets](tickets.md)
+* [Coverage and Routes](coverage-and-routes.md)
 
 ## End matter
 
