@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Glossary](glossary.md)
+* [Glossary](GLOSSARY.md)
 
 ## Transportation Service Providers
 
