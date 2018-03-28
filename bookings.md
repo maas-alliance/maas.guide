@@ -4,5 +4,5 @@ Bookings represent an agreement between a Transportation Service Provider and a 
 
 ## Booking options
 
-When planning a trip, there may be multiple options that would deliver a passenger to their destination. As such, it is important  that the TSP provide access to booking options via a programmatic API.
+When planning a trip, there may be multiple options that would deliver a passenger to their destination. As such, it is important  that the TSP provide access to booking options via a programmatic API. In turn, MaaS providers display booking options to the end-user, allowing them to select the option\(s\) that best fit their needs and preferences.
 
