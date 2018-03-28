@@ -7,5 +7,6 @@
 
 * [Introduction](introduction.md)
 * [Vehicles](vehicles.md)
+* [Bookings](bookings.md)
 * [Tickets](tickets.md)
 
