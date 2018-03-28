@@ -1,8 +1,17 @@
 # Tickets
 
-In order to board to transportation vehicles, customers often need some sort of ticket to verify their **right of access**. Tickets have traditionally been on physical media, such as paper receipts or smart cards[^1], but are increasingly coming in digital forms, such as being displayed on smartphone screens.
+In order to board to transportation vehicles, customers often need some sort of ticket to verify their **right of access**. Tickets have traditionally been on physical media, such as paper receipts or [smart cards](https://en.wikipedia.org/wiki/Smart_card), but are increasingly coming in digital forms, such as being displayed on smartphone screens.
 
 MaaS providers need to create tickets on behalf of customers. To the extent possible, Transportation Service Providers are encouraged to provide tickets in common digital formats \(such as PNG or SVG\), so the ticket can be displayed on customer smartphone devices.
 
-[^1]: Wikipedia: [smart card](https://en.wikipedia.org/wiki/Smart_card)
+## Ticket formats
+
+It is important that ticket formats are as simple as possible, and based on common standards. By encouraging simplicity and standardization, we encourage broad access to transportation networks. This is a win-win situation for TSPs as well as MaaS providers.
+
+Some common ticket formats include:
+
+* [QR codes](https://en.wikipedia.org/wiki/QR_code) - two-dimensional 'barcodes' rendered PNG or SVG images
+* [Near Field Communication](https://en.wikipedia.org/wiki/Near-field_communication) - allows communication between nearby devices
+
+
 
