@@ -6,5 +6,7 @@ Mobility as a Service operators need to know what types of vehicles are availabl
 
 ## Vehicle types
 
-A TSP should make available a list of vehicle types that are part of their fleet. This can consist of standardized classifications for vehicles as well as additional metadata about vehicle characteristics \(e.g. wi-fi onboard, A/C, emissions per kilometer\).
+A TSP should make available a list of vehicle types[^1] that are part of their fleet. This can consist of standardized classifications for vehicles as well as additional metadata about vehicle characteristics \(e.g. wi-fi onboard, A/C, emissions per kilometer\).
+
+[^1]: Wikipedia: [car classification](https://en.wikipedia.org/wiki/Car_classification)
 
