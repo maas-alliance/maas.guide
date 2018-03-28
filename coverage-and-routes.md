@@ -10,3 +10,10 @@ Coverage describes the area and times in which a Transportation Service Provider
 
 Some TSPs operate vehicles with fixed routes, such as bus or tram lines. It is important to publish route information in common formats, so that MaaS operators can help passengers find routes through a TSP network.
 
+## Further reading
+
+* [General Transit Feed Specification](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) - defines a common format for [public transportation schedules](https://en.wikipedia.org/wiki/Public_transport_timetable) and associated geographic information.
+* [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information) - allows distributed computers to exchange real-time information about [public transport](https://en.wikipedia.org/wiki/Public_transport) services and vehicles.
+
+
+
