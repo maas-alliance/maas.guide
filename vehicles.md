@@ -8,5 +8,11 @@ Mobility as a Service operators need to know what types of vehicles are availabl
 
 A TSP should make available a list of vehicle types[^1] that are part of their fleet. This can consist of standardized classifications for vehicles as well as additional metadata about vehicle characteristics \(e.g. wi-fi onboard, A/C, emissions per kilometer\).
 
+## Vehicle locations
+
+People are increasingly coming to expect real-time updates about transportation vehicle locations. This provides situational awareness about timing and delays, while building confidence and trust in the transportation provider.
+
+Vehicle location information consists primarily of periodic updates about the vehicle's geographic coordinates \(latitude and longetude\), direction, and movement.
+
 [^1]: Wikipedia: [car classification](https://en.wikipedia.org/wiki/Car_classification)
 
