@@ -20,6 +20,8 @@
 * [Consistency](mobility-as-a-service-providers/consistency.md)
 * [Awareness](mobility-as-a-service-providers/awareness.md)
 
+## Shared Responsibilities
+
 ## End matter
 
 * [Glossary](GLOSSARY.md)
