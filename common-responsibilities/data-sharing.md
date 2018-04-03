@@ -37,6 +37,7 @@ With those aspirations, how do we take practical steps foward and establish data
 
 * [Community Data License Agreement](https://cdla.io/)
 * [International Open Data Conference](https://www.opendatacon.org/)
+* Project Open Data: [Implementation Guide](https://project-open-data.cio.gov/implementation-guide/)
 
 
 
