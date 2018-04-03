@@ -16,6 +16,7 @@
 * [Roaming](mobility-as-a-service-providers/roaming.md)
 * [Simplicity](mobility-as-a-service-providers/simplicity.md)
 * [Consistency](mobility-as-a-service-providers/consistency.md)
+* [Awareness](mobility-as-a-service-providers/awareness.md)
 
 ## End matter
 
