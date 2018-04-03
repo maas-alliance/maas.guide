@@ -4,5 +4,5 @@ People and organizations relying on transportation services need relevant servic
 
 Service announcements should be provided in human and machine readable formats. Human readable formats can be discovered when people navigate to a service provider website or other information displays. The machine readable formats can be displayed to users via MaaS applications.
 
-The general goal is to provide people with timely and relevant information.
+The general goal is to **provide people with timely and relevant information**.
 
