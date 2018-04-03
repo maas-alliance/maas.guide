@@ -4,3 +4,9 @@ Change is constant. When it comes to journey planning, people need to be aware o
 
 A key aim of MaaS is to give people the right information at the right time, in the right amount. This is a delicate process, as timeliness and visibility of key information can be the difference between a successful or failed journey plan.
 
+## Further reading
+
+* Wikipedia: [Situation awareness](https://en.wikipedia.org/wiki/Situation_awareness)
+
+
+

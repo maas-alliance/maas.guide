@@ -6,3 +6,10 @@ Service announcements should be provided in human and machine readable formats. 
 
 The general goal is to **provide people with timely and relevant information**.
 
+## Further reading
+
+* 
+* Wikipedia: [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information)
+
+
+
