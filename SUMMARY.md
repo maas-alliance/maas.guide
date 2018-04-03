@@ -13,6 +13,7 @@
 ## Mobility as a Service Providers
 
 * [Introduction](mobility-as-a-service-providers/introduction.md)
+* [Roaming](mobility-as-a-service-providers/roaming.md)
 
 ## End matter
 
