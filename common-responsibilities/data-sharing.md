@@ -8,7 +8,5 @@ There are several types of data on which to build a resilient MaaS ecosystem. Th
 
 User journies, from a MaaS perspective, typically start somewhere and end somewhere else. These 'somewheres' can be described in terms of space, or place, and time. For example, a person may go from a city center \(origin\) to a recreation area on the outskirts of the city \(destination\) on a Friday evening \(time\).
 
-When we start to collect origin/destination/time data for many journies, a picture starts to emerge, often resembling a 'heartbeat of the city'. This heartbeat can be used for many purposes, including urban planning or even scheduling an individual trip to avoid congesiton.
-
-
+When we start to collect origin/destination/time data for many journies, a picture starts to emerge, often resembling a 'heartbeat of the city' a flow of people through common corridors. These data and their representative 'pictures' can be used for many purposes, including urban planning or even scheduling an individual trip to avoid congesiton.
 
