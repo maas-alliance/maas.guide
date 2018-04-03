@@ -8,6 +8,7 @@
 * [Vehicles](vehicles.md)
 * [Bookings](bookings.md)
 * [Tickets](tickets.md)
+* [Products](products.md)
 * [Coverage and Routes](coverage-and-routes.md)
 
 ## Mobility as a Service Providers
