@@ -10,6 +10,7 @@
 * [Tickets](tickets.md)
 * [Products](products.md)
 * [Coverage and Routes](coverage-and-routes.md)
+* [Announcements](announcements.md)
 
 ## Mobility as a Service Providers
 
