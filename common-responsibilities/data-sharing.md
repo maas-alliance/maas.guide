@@ -10,6 +10,10 @@ User journies, from a MaaS perspective, typically start somewhere and end somewh
 
 When we start to collect origin/destination/time data for many journies, a picture starts to emerge, often resembling a 'heartbeat of the city' a flow of people through common corridors. These data and their representative 'pictures' can be used for many purposes, including urban planning or even scheduling an individual trip to avoid congesiton.
 
+## Real-time transportation network data
+
+Increasingly, road vehicles and mobility applications are able to provide data about their movement and surroundings. These data can be used to paint a picture of the current situation across a network. In turn, this picture can be used to optimize the transportation network, reducing bottlenecks and even avoiding accidents.
+
 ## Further reading
 
 ### Origin-destination data/visualization
