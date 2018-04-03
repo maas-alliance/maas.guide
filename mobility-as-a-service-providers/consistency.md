@@ -2,5 +2,5 @@
 
 Diversity is a rule of nature. However, diverse experiences when planning a trip can lead to confusion, delays, or worse. For example, some cities have a single bus network while others may require separate tickets for different bus routes. This can be difficult even for people who are familiar with the local transportation options, let alone travellers who are just arriving in a city and need to get to their local destination.
 
-Mobility as a Service providers offer consistency across various transportation networks and municipalities.
+Mobility as a Service providers offer consistency across various transportation networks and municipalities. The MaaS Provider will 'iron out the wrinkles' in the person's journey, with a familiar user experience regardless of where the person travels.
 
