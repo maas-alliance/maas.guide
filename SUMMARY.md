@@ -20,7 +20,9 @@
 * [Consistency](mobility-as-a-service-providers/consistency.md)
 * [Awareness](mobility-as-a-service-providers/awareness.md)
 
-## Shared Responsibilities
+## Common Responsibilities
+
+* [Data sharing](common-responsibilities/data-sharing.md)
 
 ## End matter
 
