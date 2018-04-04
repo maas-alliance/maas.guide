@@ -12,7 +12,7 @@ This guide is intended as a high-level overview of the key aspects needed to sus
 
 ## Intended audience
 
-This book is intended for stakeholders in transportation and Mobility as a Service providers. It offers a conceptual and practical framework that can be shared by managers, planners, developers, and even end users of transportation and mobility services.
+This book is intended for stakeholders in transportation and MaaS providers. It offers a conceptual and practical framework that can be shared by managers, planners, developers, and even end users of transportation and mobility services.
 
 ## Attribution
 
