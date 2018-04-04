@@ -24,6 +24,7 @@
 ## Common Responsibilities
 
 * [Data sharing](common-responsibilities/data-sharing.md)
+* [Privacy](common-responsibilities/privacy.md)
 
 ## End matter
 
