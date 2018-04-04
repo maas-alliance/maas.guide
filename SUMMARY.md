@@ -11,6 +11,7 @@
 * [Products](products.md)
 * [Coverage and Routes](coverage-and-routes.md)
 * [Announcements](announcements.md)
+* [Payments](payments.md)
 
 ## Mobility as a Service Providers
 
