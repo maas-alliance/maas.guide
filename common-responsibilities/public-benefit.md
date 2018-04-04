@@ -10,7 +10,10 @@ Working for the public benefit means we are all on the same team. We can safely 
 
 ## Further reading
 
+* [Collaborative Strategies For Redesigning Transit Systems](https://www.dot.state.mn.us/transit/transit-for-our-future/docs/guidance-for-coordination-cooperation-consolidation.pdf)
+* [Consideration of co-creation autonomous distributed system forMaaS](http://www.tut.fi/verne/aineisto/ICoMaaS_Proceedings_S7.pdf)
 * [Transport Revolution - international perspectives](http://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/78100/Julkaisuja_28-2011.pdf)
+* [Smart sustainable mobility](http://www.vtt.fi/inf/pdf/visions/2014/V5.pdf)
 * USEmobility: [Strategic Recommendations to Providers of](https://www.usemobility.eu/sites/default/files/resources/usemobility_wp5_d5_3_en_vfinal.pdf)
   [Transportation Services](https://www.usemobility.eu/sites/default/files/resources/usemobility_wp5_d5_3_en_vfinal.pdf)
 
