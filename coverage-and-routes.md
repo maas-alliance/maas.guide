@@ -13,6 +13,7 @@ Some TSPs operate vehicles with fixed routes, such as bus or tram lines. It is i
 ## Further reading
 
 * [General Transit Feed Specification](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) - defines a common format for [public transportation schedules](https://en.wikipedia.org/wiki/Public_transport_timetable) and associated geographic information.
+* [NeTEx](https://en.wikipedia.org/wiki/NeTEx) - Technical standard for exchanging Public Transport Information as XML documents.
 * [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information) - allows distributed computers to exchange real-time information about [public transport](https://en.wikipedia.org/wiki/Public_transport) services and vehicles.
 
 
