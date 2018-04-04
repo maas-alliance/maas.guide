@@ -8,7 +8,10 @@ Operating as a legal trust encourages us to make decisions that are favorable to
 
 * [Personal Data and Trust](https://www.bcg.com/capabilities/big-data-advanced-analytics/personal-data-trust.aspx)
 * [Privacy, Big Data, and the Public Good](http://www.dataprivacybook.org/)
+* [Rethinking Personal Data:Strengthening Trust](http://www.cil.cnrs.fr/CIL/IMG/pdf/WEF_IT_RethinkingPersonalData_Report_2012.pdf)
 * [Trust and Context in User-Centred Data Ecosystems](http://reports.weforum.org/rethinking-personal-data/appendix-i-trust-and-context-in-user-centred-data-ecosystems/?doing_wp_cron=1522841230.8554639816284179687500Trust and Context in User-Centred Data Ecosystems)
+
+
 
 
 
