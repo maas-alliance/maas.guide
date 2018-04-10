@@ -8,9 +8,9 @@ Coverage describes the area and times in which a Transportation Service Provider
 
 ## Routes and Stops
 
-Some TSPs operate vehicles with fixed routes, such as bus or tram lines. Generally, routes consist of lines that connect points, such as bus stops, bike share docks, or car share free-floating zones.
+Some TSPs operate vehicles with fixed routes, such as bus or tram lines. Generally, routes consist of lines that connect points, such as bus lines with stops. However, some transportation options consist mainly of points, such as bike share docks, or car share free-floating zones.
 
-It is important to publish route information in common formats, so that MaaS operators can help passengers find routes through one or more TSP network\(s\).
+Regardless of the underlying geometry, it is important to publish route information in common formats, so that MaaS operators can help passengers find routes through one or more TSP network\(s\).
 
 ## Further reading
 
