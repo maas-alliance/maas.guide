@@ -26,6 +26,7 @@
 * [Data sharing](common-responsibilities/data-sharing.md)
 * [Privacy](common-responsibilities/privacy.md)
 * [Public benefit](common-responsibilities/public-benefit.md)
+* [Two-way communication](common-responsibilities/two-way-communication.md)
 
 ## End matter
 
