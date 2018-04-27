@@ -28,7 +28,7 @@ With those aspirations, how do we take practical steps foward and establish data
 * [Small multiples for OD flow maps using virtual layers](https://anitagraser.com/2017/01/17/small-multiples-for-od-flow-maps-using-virtual-layers/)
 * [Service Areas, Traffic and QGIS](http://www.digital-geography.com/service-areas-traffic-and-qgis/)
 
-## Real-time transportation network data
+### Real-time transportation network data
 
 * [Cooperative Situation Awareness in Transportation](http://elib.dlr.de/65151/1/Dissertation_MatthiasRoeckl.pdf)
 * [Vehicle Networks: The Networked Car](https://www.sti-innsbruck.at/sites/default/files/courses/fileadmin/documents/vn-ws0809/01-vn-intro.pdf)
@@ -39,7 +39,7 @@ With those aspirations, how do we take practical steps foward and establish data
 * [International Open Data Conference](https://www.opendatacon.org/)
 * Project Open Data: [Implementation Guide](https://project-open-data.cio.gov/implementation-guide/)
 
-## Open Transport Data
+### Open Transport Data
 
 * [oneTRANSPORT](https://onetransport.io/) - Open marketplace for data
 * [OpenTransportNet](http://project.opentransportnet.eu) - brings together open geo-spatial data within City Data Hubs and enables it to be viewed in easy-to-understand ways
