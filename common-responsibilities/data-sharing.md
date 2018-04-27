@@ -42,7 +42,7 @@ With those aspirations, how do we take practical steps foward and establish data
 ## Open Transport Data
 
 * [oneTRANSPORT](https://onetransport.io/) - Open marketplace for data
-* OpenTransportNet - brings together open geo-spatial data within City Data Hubs and enables it to be viewed in easy-to-understand ways
+* [OpenTransportNet](http://project.opentransportnet.eu) - brings together open geo-spatial data within City Data Hubs and enables it to be viewed in easy-to-understand ways
 * [SharedStreets](http://sharedstreets.io/) - A shared language for the world's streets
 
 
