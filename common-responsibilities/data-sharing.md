@@ -22,17 +22,6 @@ With those aspirations, how do we take practical steps foward and establish data
 
 ## Further reading
 
-### Origin-destination data/visualization
-
-* [Visualize flows with FlowMapper](http://www.qgis.nl/2014/10/27/stromen-weergeven-met-flowmapper/)
-* [Small multiples for OD flow maps using virtual layers](https://anitagraser.com/2017/01/17/small-multiples-for-od-flow-maps-using-virtual-layers/)
-* [Service Areas, Traffic and QGIS](http://www.digital-geography.com/service-areas-traffic-and-qgis/)
-
-### Real-time transportation network data
-
-* [Cooperative Situation Awareness in Transportation](http://elib.dlr.de/65151/1/Dissertation_MatthiasRoeckl.pdf)
-* [Vehicle Networks: The Networked Car](https://www.sti-innsbruck.at/sites/default/files/courses/fileadmin/documents/vn-ws0809/01-vn-intro.pdf)
-
 ### Open Data
 
 * [Community Data License Agreement](https://cdla.io/)
@@ -44,6 +33,17 @@ With those aspirations, how do we take practical steps foward and establish data
 * [oneTRANSPORT](https://onetransport.io/) - Open marketplace for data
 * [OpenTransportNet](http://project.opentransportnet.eu) - brings together open geo-spatial data within City Data Hubs and enables it to be viewed in easy-to-understand ways
 * [SharedStreets](http://sharedstreets.io/) - A shared language for the world's streets
+
+### Origin-destination data/visualization
+
+* [Visualize flows with FlowMapper](http://www.qgis.nl/2014/10/27/stromen-weergeven-met-flowmapper/)
+* [Small multiples for OD flow maps using virtual layers](https://anitagraser.com/2017/01/17/small-multiples-for-od-flow-maps-using-virtual-layers/)
+* [Service Areas, Traffic and QGIS](http://www.digital-geography.com/service-areas-traffic-and-qgis/)
+
+### Real-time transportation network data
+
+* [Cooperative Situation Awareness in Transportation](http://elib.dlr.de/65151/1/Dissertation_MatthiasRoeckl.pdf)
+* [Vehicle Networks: The Networked Car](https://www.sti-innsbruck.at/sites/default/files/courses/fileadmin/documents/vn-ws0809/01-vn-intro.pdf)
 
 
 
