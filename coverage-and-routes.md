@@ -12,6 +12,17 @@ Some TSPs operate vehicles with fixed routes, such as bus or tram lines. General
 
 Regardless of the underlying geometry, it is important to publish route information in common formats, so that MaaS operators can help passengers find routes through one or more TSP network\(s\).
 
+## Coverage and routes actions
+
+When designing a **Coverage API**, some or all of the following may be important to MaaS Providers:
+
+* _get_ coverage 
+  * area - get a \(multi\) polygon describing the entire coverage area
+  * points - get points that are part of the service offering \(e.g. charging stations, bus stops, etc\)
+    * within - get points within a provided geometry
+    * near - get points within a given radius of given geographic coordinate
+* _get_ within coverage area - determine whether a geographic point is within coverage area
+
 ## Further reading
 
 * [General Transit Feed Specification](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) - defines a common format for [public transportation schedules](https://en.wikipedia.org/wiki/Public_transport_timetable) and associated geographic information.
