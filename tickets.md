@@ -18,8 +18,8 @@ Some common ticket formats include:
 When designing a **Ticket API**, some/all of the following actions are important to MaaS Providers:
 
 * _create_ ticket - create a new ticket
-* _update_ ticket - update an existing ticket
 * _read_ ticket - retrieve an existing ticket
+* _update_ ticket - update an existing ticket
 
 ## Further reading
 
