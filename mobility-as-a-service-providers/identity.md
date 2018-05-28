@@ -14,3 +14,9 @@ Since Mobility Services often span multiple providers, we want to make identity 
 
 User information is shared with Transportation Service Providers on an as-needed basis. The justification for accessing user information should be part of a **data processing agreement** made between the Mobility as a Service Provider and the Transportation Service Provider. The reasons for data sharing should be clearly communicated to the end-user \(a.k.a. **data subject**\).
 
+## Further reading
+
+* [Contracts and liabilities between controllers and processors](https://ico.org.uk/media/about-the-ico/consultations/2014789/draft-gdpr-contracts-guidance-v1-for-consultation-september-2017.pdf)
+
+
+
