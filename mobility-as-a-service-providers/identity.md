@@ -8,7 +8,7 @@ When creating an account with a new service provider, people should only be aske
 
 Signing up for a new account sometimes involves filling in a lengthy form. This can feel fatiguing, and may lead to abandonment of the sign-up process.
 
-Since Mobility Services often span multiple providers, we want to make identity management feel effortless across providers. This implies that Mobility Providers take on the role of **Identity Management**, collecting essential information from end-users in as simple of a way as possible.
+Since Mobility Services often span multiple Transportation Service Providers, we want to make identity management feel effortless across providers. This implies that Mobility Providers take on the role of **Identity Management**, collecting essential information from end-users in as simple of a way as possible.
 
 ## Privacy
 
