@@ -18,6 +18,7 @@
 * [Introduction](mobility-as-a-service-providers/introduction.md)
 * [Roaming](mobility-as-a-service-providers/roaming.md)
 * [Simplicity](mobility-as-a-service-providers/simplicity.md)
+* [Identity](mobility-as-a-service-providers/identity.md)
 * [Consistency](mobility-as-a-service-providers/consistency.md)
 * [Awareness](mobility-as-a-service-providers/awareness.md)
 
