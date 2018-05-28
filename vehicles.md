@@ -14,6 +14,15 @@ People are increasingly coming to expect real-time updates about transportation 
 
 Vehicle location information consists primarily of periodic updates about the vehicle's [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system) \(latitude and longetude\), direction, and movement. This information can be made available via a 'streaming' API, which pushes vehicle locations to all subscribers on an interval.
 
+## Vehicle actions
+
+When designing a **Vehicle API**, at least some of the following actions are important to MaaS providers:
+
+* _get_ available vehicles
+  * by type
+  * by location
+  * by availability
+
 ## Further reading
 
 * [ACRISS Car Classification Codes](https://en.wikipedia.org/wiki/ACRISS_Car_Classification_Code)
