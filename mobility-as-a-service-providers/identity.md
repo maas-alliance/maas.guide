@@ -2,7 +2,7 @@
 
 People want to gain access to transportation choices with as little friction and fragmentation as possible. Identity management, i.e. signing up for accounts, is a large source of both friction and fragmentation. Identity management should be simple and straightforward.
 
-When creating an account with a new service provider, people should only be asked to provide essential information. This is for two primary reasons: **User Experience** and **Privacy.**
+When creating an account with a new service provider, **people should only be asked to provide essential information**. This is for two primary reasons: **User Experience** and **Privacy.**
 
 ## User experience
 
