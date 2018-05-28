@@ -6,6 +6,15 @@ Service announcements should be provided in human and machine readable formats. 
 
 The general goal is to **provide people with timely and relevant information**.
 
+## Announcements actions
+
+When designing an **Announcements API**, some or all of the following may be relevant to end users and MaaS Providers:
+
+* _get_ announcements
+  * recent - a number of most recent announcements
+  * within - announcements within a given time range
+  * near - announcements near a given geographic coordinate \(when applicable\)
+
 ## Further reading
 
 * Wikipedia: [Service Interface for Real Time Information](https://en.wikipedia.org/wiki/Service_Interface_for_Real_Time_Information)
