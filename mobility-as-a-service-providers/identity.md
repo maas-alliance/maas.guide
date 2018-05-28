@@ -8,9 +8,9 @@ When creating an account with a new service provider, people should only be aske
 
 Signing up for a new account sometimes involves filling in a lengthy form. This can feel fatiguing, and may lead to abandonment of the sign-up process.
 
-Since Mobility Services often span multiple providers, we want to make identity management feel effortless across providers. This implies that Mobility Providers take on the role of **Identity Management**, collecting essential information from end-users in as simple of a way as possible. 
+Since Mobility Services often span multiple providers, we want to make identity management feel effortless across providers. This implies that Mobility Providers take on the role of **Identity Management**, collecting essential information from end-users in as simple of a way as possible.
 
 ## Privacy
 
-User information is shared with Transportation Service Providers on an as-needed basis. The justification for accessing user information should be part of a **data processing agreement** made between the Mobility as a Service Provider and the Transportation Service Provider. The reasons for data sharing should be clearly communicated to the end-user \(a.k.a. **data subject\).**
+User information is shared with Transportation Service Providers on an as-needed basis. The justification for accessing user information should be part of a **data processing agreement** made between the Mobility as a Service Provider and the Transportation Service Provider. The reasons for data sharing should be clearly communicated to the end-user \(a.k.a. **data subject**\).
 
