@@ -13,6 +13,14 @@ Some common ticket formats include:
 * [QR codes](https://en.wikipedia.org/wiki/QR_code) - two-dimensional 'barcodes' rendered PNG or SVG images
 * [Near Field Communication](https://en.wikipedia.org/wiki/Near-field_communication) - allows communication between nearby devices
 
+## Ticket actions
+
+When designing a **Ticket API**, some/all of the following actions are important to MaaS Providers:
+
+* _create_ ticket - create a new ticket
+* _update_ ticket - update an existing ticket
+* _read_ ticket - retrieve an existing ticket
+
 ## Further reading
 
 * BoB Wiki: [Electronic tickets](https://samtrafiken.atlassian.net/wiki/spaces/BOB/pages/116036706/2.+Electronic+tickets)
