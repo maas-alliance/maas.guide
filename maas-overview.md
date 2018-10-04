@@ -8,7 +8,9 @@ We are stewards of the social, technical, and environmental aspects of human mob
 
 In order for MaaS to become reality, we need layers of technical infrastructure to support single- or multi-modal journies that span cities, regions, nations, continents, and possibly the globe. In other words, **we cannot work in isolation**.
 
-By way of example, consider the following diagram showing some of the technical layers and data interchange needed to support a person when taking a multi-modal trip:![](/resources/multi-modal_user_journey_data_flow.png)
+By way of example, consider the following diagram showing some of the technical layers and data interchange needed to support a person when taking a multi-modal trip:
+
+![multi-modal user journey data-flow diagram](/resources/multi-modal_user_journey_data_flow.png)
 
 In the above abstraction, we can see there are many moving parts involved in efficient trip planning. execution, and reconciliation.
 
