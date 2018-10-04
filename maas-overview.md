@@ -2,6 +2,8 @@
 
 Mobility as a Service is **built on the principle of service**. In our context, service means **meeting human needs**. We also have a commitment to **offer quality and promote sustainability.**
 
+We are stewards of the social, technical, and environmental aspects of human mobility.
+
 ## Technical overview
 
 In order for MaaS to become reality, we need layers of technical infrastructure to support single- or multi-modal journies that span cities, regions, nations, continents, and possibly the globe. In other words, **we cannot work in isolation**.
